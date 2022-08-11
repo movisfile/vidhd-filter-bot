@@ -3,11 +3,11 @@
 Do Fork And Star The Repository If You Liked It.
 
 <p align="center">
-  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot/fork">
+  <a href="https://github.com/movisfile/vidhd-filter-bot/fork">
     <img src="https://img.shields.io/github/forks/tgbotsProject/Auto-Filter-Bot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot">
+  <a href="https://github.com/movisfile/vidhd-filter-bot">
     <img src="https://img.shields.io/github/stars/tgbotsProject/Auto-Filter-Bot?style=social">
   </a>
 </p>
@@ -72,7 +72,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/tgbotsProject/Auto-Filter-Bot/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/movisfile/vidhd-filter-bot/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -81,7 +81,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-git clone https://github.com/tgbotsProject/Auto-Filter-Bot
+git clone https://github.com/movisfile/vidhd-filter-bot
 cd Auto-Filter-Bot
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
